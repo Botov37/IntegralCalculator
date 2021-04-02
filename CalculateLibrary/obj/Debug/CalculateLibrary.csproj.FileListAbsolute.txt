@@ -1,0 +1,17 @@
+e:\Projects\2021\IntegralSolution\CalculateLibrary\bin\Debug\CalculateLibrary.dll
+e:\Projects\2021\IntegralSolution\CalculateLibrary\bin\Debug\CalculateLibrary.pdb
+e:\Projects\2021\IntegralSolution\CalculateLibrary\obj\Debug\CalculateLibrary.csproj.CoreCompileInputs.cache
+e:\Projects\2021\IntegralSolution\CalculateLibrary\obj\Debug\CalculateLibrary.dll
+e:\Projects\2021\IntegralSolution\CalculateLibrary\obj\Debug\CalculateLibrary.pdb
+E:\Projects\2021\IntegralSolution\CalculateLibrary\obj\Debug\CalculateLibrary.csprojAssemblyReference.cache
+C:\Users\Artem\Desktop\IntegralSolution\CalculateLibrary\bin\Debug\CalculateLibrary.dll
+C:\Users\Artem\Desktop\IntegralSolution\CalculateLibrary\bin\Debug\CalculateLibrary.pdb
+C:\Users\Artem\Desktop\IntegralSolution\CalculateLibrary\obj\Debug\CalculateLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Artem\Desktop\IntegralSolution\CalculateLibrary\obj\Debug\CalculateLibrary.dll
+C:\Users\Artem\Desktop\IntegralSolution\CalculateLibrary\obj\Debug\CalculateLibrary.pdb
+C:\Users\Artem\Desktop\IntegralSolution\CalculateLibrary\obj\Debug\CalculateLibrary.csprojAssemblyReference.cache
+C:\Users\Artem\Desktop\1\IntegralSolution\CalculateLibrary\bin\Debug\CalculateLibrary.dll
+C:\Users\Artem\Desktop\1\IntegralSolution\CalculateLibrary\bin\Debug\CalculateLibrary.pdb
+C:\Users\Artem\Desktop\1\IntegralSolution\CalculateLibrary\obj\Debug\CalculateLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Artem\Desktop\1\IntegralSolution\CalculateLibrary\obj\Debug\CalculateLibrary.dll
+C:\Users\Artem\Desktop\1\IntegralSolution\CalculateLibrary\obj\Debug\CalculateLibrary.pdb

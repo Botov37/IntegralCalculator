@@ -1,0 +1,5 @@
+e:\Projects\2021\IntegralSolution\CalculateLibrary\bin\Release\CalculateLibrary.dll
+e:\Projects\2021\IntegralSolution\CalculateLibrary\bin\Release\CalculateLibrary.pdb
+e:\Projects\2021\IntegralSolution\CalculateLibrary\obj\Release\CalculateLibrary.csproj.CoreCompileInputs.cache
+e:\Projects\2021\IntegralSolution\CalculateLibrary\obj\Release\CalculateLibrary.dll
+e:\Projects\2021\IntegralSolution\CalculateLibrary\obj\Release\CalculateLibrary.pdb
