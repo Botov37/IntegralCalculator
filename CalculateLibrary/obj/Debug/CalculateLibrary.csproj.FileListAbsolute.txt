@@ -15,3 +15,8 @@ C:\Users\Artem\Desktop\1\IntegralSolution\CalculateLibrary\bin\Debug\CalculateLi
 C:\Users\Artem\Desktop\1\IntegralSolution\CalculateLibrary\obj\Debug\CalculateLibrary.csproj.CoreCompileInputs.cache
 C:\Users\Artem\Desktop\1\IntegralSolution\CalculateLibrary\obj\Debug\CalculateLibrary.dll
 C:\Users\Artem\Desktop\1\IntegralSolution\CalculateLibrary\obj\Debug\CalculateLibrary.pdb
+C:\Users\Егор\Desktop\gitcommits\Tema\IntegralCalculator\CalculateLibrary\bin\Debug\CalculateLibrary.dll
+C:\Users\Егор\Desktop\gitcommits\Tema\IntegralCalculator\CalculateLibrary\bin\Debug\CalculateLibrary.pdb
+C:\Users\Егор\Desktop\gitcommits\Tema\IntegralCalculator\CalculateLibrary\obj\Debug\CalculateLibrary.csprojAssemblyReference.cache
+C:\Users\Егор\Desktop\gitcommits\Tema\IntegralCalculator\CalculateLibrary\obj\Debug\CalculateLibrary.dll
+C:\Users\Егор\Desktop\gitcommits\Tema\IntegralCalculator\CalculateLibrary\obj\Debug\CalculateLibrary.pdb

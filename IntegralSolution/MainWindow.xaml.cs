@@ -88,6 +88,10 @@ namespace IntegralSolution
                     {
                         return new TrapCalculator();
                     }
+                case 2:
+                    {
+                        return new Simpson();
+                    }
                 default:
                     {
                         return new RectangleCalculator();
