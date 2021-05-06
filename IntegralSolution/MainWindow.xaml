@@ -46,6 +46,9 @@
             <ComboBoxItem>
                 Trapezoid method
             </ComboBoxItem>
+            <ComboBoxItem>
+                Simpson method
+            </ComboBoxItem>
         </ComboBox>
 
         <oxy:Plot x:Name="graph" Title="{Binding Title}" Grid.Row="4" Margin="0,26,0,4" Grid.ColumnSpan="3">
